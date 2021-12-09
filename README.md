@@ -1,4 +1,4 @@
-# Selenium-y-Cucucmber
+# RETO 01 SEMILLERO AUTOMATIZACION SQA  
 Reto 01 Selenium / Cucumber
 
 En este proyecto la mision es Automatizar una Web (https://sanangel.com.co/) realizando varias(8) busquedas automaticas y validando que los resultados concuerden con lo esperado
